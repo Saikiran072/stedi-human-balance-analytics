@@ -1,14 +1,10 @@
-# 🧍‍♂️ STEDI Human Balance Analytics
+# 🏃 STEDI Human Balance Analytics
 
-### Spark & AWS Glue Data Lakehouse Project
-
----
+## 🚀 Spark & AWS Glue Data Lakehouse Project
 
 ## 📌 Project Introduction
 
 The STEDI Human Balance Analytics project focuses on building a data lakehouse solution using AWS Glue and Apache Spark. The objective is to process raw sensor data, curate trusted datasets, and prepare step trainer data that can be used for machine learning applications.
-
-
 ---
 
 ## 📌 Project Overview
